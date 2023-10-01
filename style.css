@@ -1,0 +1,68 @@
+.navbar {
+    margin: 675px 2px 3px 4px;
+}
+
+div.nc {
+
+    float: left;
+    background-color: rgb(31, 39, 19);
+    color: white;
+}
+
+.left {
+    margin: 0% 0% 0% -1%;
+    padding:14px 375px 6px 21px;
+}
+
+.center {
+    /* margin: 0% 1% 0% -2%; */
+    padding:0px 374px 0px 40px;
+    float: left;
+
+}
+
+.right {}
+
+.limg img {
+    height: 28px;
+    width: 26px;
+    margin: 0% 0% 2% 4%;
+}
+
+.f {
+
+}
+
+.text {
+    margin: -54% -44% 1% 56%;
+    font-size: 14px;
+}
+.center img{
+    margin: 11px 4px 4px 3px;
+    height: 31px;
+    float: left;
+    padding: 0px 3px 8px 4px;
+}
+
+.search{
+    /* background-color: r; */
+    background-color: rebeccapurple;
+    border-radius: 18px;
+    /* padding: 4px 2px 3px 4px; */
+    float: left;
+    /* margin: -4px 1px 4px -1px; */
+    background-color: rgb(49, 56, 38);
+    margin: 12px 2px 4px 3px;
+    padding: 0px 3px 1px 4px;
+}
+
+
+.search img{
+    height: 20px;
+    margin: 5px 5px 3px 8px;
+    padding: 1px 3px 1px 4px;
+}
+.search p{
+    padding: 1px 5px 1px 11px;
+    margin: 4px 42px -19px 31px;
+}
