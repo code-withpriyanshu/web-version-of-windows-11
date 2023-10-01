@@ -1,3 +1,7 @@
+body{
+    background-image: url(./pictures/background/a1cadb0911675232054cc13deee6a3221b4dd88e.jpg);
+    background-size: 100% 94vh;
+}
 .navbar {
     margin: 675px 2px 3px 4px;
 }
