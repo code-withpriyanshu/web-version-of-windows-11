@@ -19,26 +19,23 @@ div.nc {
 }
 
 .center {
-    /* margin: 0% 1% 0% -2%; */
-    padding:0px 374px 0px 40px;
+    padding:0px 280px 0px 40px;
     float: left;
-
+    
 }
-
-.right {}
+.right{
+    padding: 0px 0px 2px 0px;
+    margin: -54px -9px 1px 1175px;
+    float: left;
+}
 
 .limg img {
     height: 28px;
     width: 26px;
     margin: 0% 0% 2% 4%;
 }
-
-.f {
-
-}
-
 .text {
-    margin: -54% -44% 1% 56%;
+    margin: -56% -44% 1% 56%;
     font-size: 14px;
 }
 .center img{
@@ -59,8 +56,6 @@ div.nc {
     margin: 12px 2px 4px 3px;
     padding: 0px 3px 1px 4px;
 }
-
-
 .search img{
     height: 20px;
     margin: 5px 5px 3px 8px;
@@ -69,4 +64,30 @@ div.nc {
 .search p{
     padding: 1px 5px 1px 11px;
     margin: 4px 42px -19px 31px;
+}
+.right p{
+    font-size: 13px;
+    margin: -39px 213px 8px 89px;
+
+}
+.up{
+    margin: 20px 5px 12px 55px;
+
+}
+.right img{
+    height: 16px;
+    margin: 20px 4px 12px 6px;
+}
+.access{
+    margin: -54px 109px 6px 123px;
+
+    /* border: 2px solid red; */
+}
+.dt{
+    font-size: 13px;
+    margin: -43px 47px -20px 220px;
+}
+.bell{
+    margin: -5px 10px 5px 292px !important; 
+    height: 23px !important;
 }
